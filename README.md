@@ -9,7 +9,6 @@ Passionate about making the web beautiful
   <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Frontend+Developer;Backend+Enthusiast;Spring+Boot+%7C+Microservices+%7C+AI&center=true&width=500&height=45">
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ Passionate about making the web beautiful
 - ⚡ Interested in **Backend Development & Cloud Technologies**
 - 🎯 Passionate about building scalable and beautiful web applications
 
----
 
 ## 🌐 Portfolio & Socials
 
@@ -32,7 +30,6 @@ Passionate about making the web beautiful
   </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +63,6 @@ Passionate about making the web beautiful
   <img src="https://skillicons.dev/icons?i=java,spring,kubernetes" />
 </p>
 
----
 
 ## 📌 Featured Projects
 
@@ -82,7 +78,6 @@ Passionate about making the web beautiful
 ### 📝 Markdown Editor
 🔗 https://kyawzintun.github.io/markdown/
 
----
 
 ## 📊 GitHub Stats
 
@@ -90,14 +85,9 @@ Passionate about making the web beautiful
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kyawzintun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
 ## 👀 Visitor Count
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kyawzintun&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzintun" />
 </p>
 
----
-
-<h3 align="center">Thanks for visiting my profile 👨‍💻</h3>
