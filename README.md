@@ -87,9 +87,7 @@ Passionate about making the web beautiful
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyawzintun&show_icons=true&theme=default" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawzintun&theme=default" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kyawzintun&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
