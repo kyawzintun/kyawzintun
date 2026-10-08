@@ -54,7 +54,7 @@ Passionate about making the web beautiful
 ### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,git,kubernetes,kafka,rabbitmq" />
 </p>
 
 ### Currently Exploring
@@ -62,21 +62,6 @@ Passionate about making the web beautiful
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,kubernetes" />
 </p>
-
-
-## 📌 Featured Projects
-
-### 🎮 Simon Game
-🔗 https://github.com/kyawzintun/simon
-
-### ❌ Tic Tac Toe
-🔗 https://github.com/kyawzintun/tic-tac-toe
-
-### 🌐 Portfolio Website
-🔗 [https://github.com/kyawzintun/kyawzintun.github.io](https://github.com/kyawzintun/kyawzintun.github.io)
-
-### 📝 Markdown Editor
-🔗 https://kyawzintun.github.io/markdown/
 
 
 ## 📊 GitHub Stats
